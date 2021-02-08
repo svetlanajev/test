@@ -34,3 +34,10 @@
     margin: 50px;
     border-radius: 50%;
 }
+
+#yellow {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-radius: 50%;
+}
