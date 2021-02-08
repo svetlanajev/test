@@ -26,3 +26,11 @@
     margin: 50px;
     border-radius: 50%;
 }
+
+#black {
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin: 50px;
+    border-radius: 50%;
+}
